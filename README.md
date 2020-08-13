@@ -1,6 +1,6 @@
-# NLP
+# Natural Language Processing
 
-Work completed for the Natural Language Processing course at IE Univeristy.
+Work completed for the Natural Language Processing course at IE University.
 
 ## Topic Modelling: Domestic Violence Application
 
