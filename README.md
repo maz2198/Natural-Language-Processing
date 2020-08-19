@@ -4,6 +4,8 @@ This repo comprises of several projects completed for the Natural Language Proce
 
 ## Topic Modelling: Domestic Violence Application
 
+The website and application can be viewed at [Domestic Violence: Topic Modelling](https://bfdelavega.wixsite.com/misitio).
+
 This project was completed with my colleagues Adelina Akhsanova, Nisrine Ferahi, Begona Frigolet, Mohamed Amer and Prasanth Chakka.
 
 ## Real or Not: Tweets Disaster Classification
