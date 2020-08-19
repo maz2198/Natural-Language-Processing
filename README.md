@@ -4,12 +4,15 @@ This repo comprises of several projects completed for the Natural Language Proce
 
 ## Topic Modelling: Domestic Violence Application
 
-Domestic Violence is not a pandemic, it’s an epidemic. With Covid-19 ravaging the economy; increasing unemployment such crises are set to become much more frequent. Add another public health crisis to the toll of the new coronavirus: Mounting data suggests that
-domestic abuse is acting as an opportunistic infection, flourishing in the conditions created by the pandemic.
+Domestic Violence is not a pandemic, it’s an epidemic. With Covid-19 ravaging the economy and increasing unemployment; such crises are set to become much more frequent. Add another public health crisis to the toll of the new coronavirus: Mounting data suggests that domestic abuse is acting as an opportunistic infection, flourishing in the conditions created by the pandemic.
 
 With topic modelling, we are looking to identify the different topics or classes of the tweets or comments in Reddit  to make the large and unstructured data more organized in a way that will make it easier for NGOs, government officials or researchers to assess and get useful insights from to better analyze this crisis and come up with better courses of action.
 
-Initially
+Reddit comments (+- 1200) and tweets (+- 25 000) were scraped with searches or hashtags **#METOO, #WHYISTAYED, #WHYILEFT,#HeForSheAtHome, #WomenCount, #GenerationEquality,
+#AntiDomesticViolenceDuringEpidemic, #Mask-19, #WithHer, #SpotlightEndViolence** and **#staysafe**. 
+
+Three topic modelling techniques were applied:
+
  - Latent Semantic Indexing (LSI)
  - Hierachical Dirichlet Process (HDP)
  - Latent Dirichlet Allocation (LDA) 
