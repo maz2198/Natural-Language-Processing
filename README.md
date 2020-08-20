@@ -17,7 +17,9 @@ Three topic modelling techniques were applied:
  - Hierachical Dirichlet Process (HDP)
  - Latent Dirichlet Allocation (LDA) 
 
-The website and application can be viewed at [Domestic Violence: Topic Modelling](https://bfdelavega.wixsite.com/misitio).
+The topics were identified across five countries where the conversation of Domestic Violence was most prominent; namely USA, UK, India, Nigeria & Kenya.
+ 
+An in-depth report reviewing relevant literature, outlining the methodology taken and summarizing insights made, is available [here](Final Report_GroupA.pdf). The final website and application can be viewed at [Domestic Violence: Topic Modelling](https://bfdelavega.wixsite.com/misitio).
 
 This project was completed with my colleagues Adelina Akhsanova, Nisrine Ferahi, Begona Frigolet, Mohamed Amer and Prasanth Chakka.
 
