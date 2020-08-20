@@ -19,7 +19,7 @@ Three topic modelling techniques were applied:
 
 The topics were identified across five countries where the conversation of Domestic Violence was most prominent; namely USA, UK, India, Nigeria & Kenya.
  
-An in-depth report reviewing relevant literature, outlining the methodology taken and summarizing insights made, is available [here](Final Report_GroupA.pdf). The final website and application can be viewed at [Domestic Violence: Topic Modelling](https://bfdelavega.wixsite.com/misitio).
+An in-depth report reviewing relevant literature, outlining the methodology taken and summarizing insights made, is available [here](https://github.com/maz2198/Natural-Language-Processing/blob/master/DomesticViolenceTopicModelling/NLPAssignment_GroupA/Final%20Report_GroupA.pdf). The final website and application can be viewed at [Domestic Violence: Topic Modelling](https://bfdelavega.wixsite.com/misitio).
 
 This project was completed with my colleagues Adelina Akhsanova, Nisrine Ferahi, Begona Frigolet, Mohamed Amer and Prasanth Chakka.
 
