@@ -25,4 +25,13 @@ This project was completed with my colleagues Adelina Akhsanova, Nisrine Ferahi,
 
 ## Real or Not: Tweets Disaster Classification
 
-The dataset can be downloaded [here](https://www.kaggle.com/c/nlp-getting-started/overview).
+The main objective of this project wass to classify these tweets on whether they are about real disasters or not.
+
+We are given a dataset of almost 11,000 tweets and can be downloaded [here](https://www.kaggle.com/c/nlp-getting-started/overview).
+The complication comes because many tweets have words that would imply a disaster but are used metaphorically. Therefore, merely identifying the presence of such words would not guarantee that the tweet is in fact referring to an actual disaster. We have just three pieces of information to do this, 
+- the tweet
+- the key word in the tweet 
+- location of tweet account.
+
+Several preprocessing techniques and the use of n-grams, lemmatization, stemming and different tokenizers were applied. Moreover, an ensembled voting classifier consisting of a Logistic Regression Model, Multinomial Naive-Bayes and SVM. The entire preprocessing and modelling is outlined in `NLP_MarangMutloatse.ipynb`. An summary of the methodology, results and insights are outlined in `NLP_Report.pdf`
+
